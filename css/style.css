@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.common-btn{
+    padding: 20px 40px;
+    color: #fff;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: .5s;
+}
+
+.First{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    padding: 13rem 0;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed ;
+}
+
+.First h1{
+color: #212529;
+font-size: 88px;
+}
+.First h3{
+    color: #212529;
+    font-size: 28px;
+    margin-bottom: 60px;
+}
+.First a{
+    background-color: #1d809f;
+    
+}
+
+.First a:hover{
+    background-color: #0d4b5e;
+    padding: 20px 50px;
+}
+
+.Second{
+    text-align: center;
+    padding: 5rem 0;
+}
+.Second h2{
+    font-size: 2rem;
+    color: #212529;
+ 
+}
+.Second p{
+    color:#212529;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+.Second p a{
+    text-decoration: underline;
+}
+.Second .second-btn{
+    background-color: #212529;
+   
+}
+
+.Third{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 13rem 0;
+    background-position: center;
+    background-size:cover ;
+    background-attachment:fixed ;
+}
+.Third h2{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+.Third a{
+    background-color: #1d809f;
+    
+}
+
+.Fourth{
+    text-align: center;
+    background-color: #1d809f;
+    padding: 5rem 0;   
+}
+.Fourth h2{
+    font-size: 2rem;
+    color: #fff;
+    margin-bottom: 40px;
+}
+.Fourth .f-btn1{
+    background-color: #fff;
+    color: #212529;
+    margin-right: 8px;
+}
+.Fourth .f-btn2{
+    background-color: black;
+    margin-left: 8px;
+}
+
+
+
+
+
+
+
